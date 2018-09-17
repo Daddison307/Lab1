@@ -1,3 +1,3 @@
 # Lab1
 Addison Dugal
-\nCollaborated with Sidney Jensen and Evan Staben
+Collaborated with Sidney Jensen and Evan Staben
